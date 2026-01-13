@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kymking
+- 👋 Hi, I’m John Kimani
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on a game  called dash
